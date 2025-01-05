@@ -80,7 +80,7 @@ Normalizes audio-related filenames and directory names by cleaning and standardi
 Transforms Python code into VSCode snippets for efficient code reuse.
 
 - **Features**: Automatic JSON snippet creation, seamless VSCode integration, and multi-version support.
-- **Usage**: `python snippet_generator.py <input_file.py> <output_snippets.json>`
+- **Usage**: `python snippets.py <input_file.py> <output_snippets.json>`
 - **Applications**: Facilitates rapid prototyping and team standardization through reusable code templates.
 
 ---
@@ -90,7 +90,7 @@ Transforms Python code into VSCode snippets for efficient code reuse.
 A script to merge multiple Python files into a single file for coherent analysis or distribution.
 
 - **Features**: Batch processing, annotated file structure, and preventive recursion.
-- **Usage**: `python combine_python_files.py <target_directory> <output_combined.py>`
+- **Usage**: `python concatenator.py <target_directory> <output_combined.py>`
 - **Applications**: Ideal for project archiving and code compilation needs.
 
 ---
