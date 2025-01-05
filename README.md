@@ -26,7 +26,7 @@ A comprehensive collection of Python utilities to boost productivity and streaml
 
 A Pygame-based inventory management tool featuring a multi-tabbed grid structure for organizing items like weapons and consumables.
 
-![Inventory System](<../Photos for PPP/inv.PNG>)
+![Inventory System](<inv.PNG>)
 
 - **Features**: Item stacking, drag-and-drop, hotbar slots, and responsive UI.
 - **Requirements**: Python 3.x, Pygame, Pygame GUI
@@ -39,7 +39,7 @@ A Pygame-based inventory management tool featuring a multi-tabbed grid structure
 
 Automatically constructs a nested folder structure labeled "SoundKit," complete with `.nfo` placeholders.
 
-![SoundKit Structure](<../Photos for PPP/soundkit.PNG>)
+![SoundKit Structure](<soundkit.PNG>)
 
 - **Usage**: Execute `python folders.py` to create the structure.
 - **Features**: Generates directories like Drums, Synths, and Documentation with informative `.nfo` files.
@@ -50,7 +50,7 @@ Automatically constructs a nested folder structure labeled "SoundKit," complete 
 
 Generates `.nfo` files with metadata using a rainbow gradient for directories and audio files.
 
-![Rainbow Metadata](<../Photos for PPP/nfo.PNG>)
+![Rainbow Metadata](<nfo.PNG>)
 
 - **Usage**: Run `python nfo.py <path_to_root_directory> [--generate-icons]`
 - **Features**: Supports multiple audio formats, validates existing metadata, and conditions the use of a rainbow color scheme.
