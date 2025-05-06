@@ -1,7 +1,5 @@
 # <p style="color:yellow">Public Python Package</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheCascadian%2FPublic-Python-Package&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 A comprehensive collection of Python utilities to boost productivity and streamline workflow.
 
 ---
