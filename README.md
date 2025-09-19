@@ -1,5 +1,5 @@
 ![Downloads](https://img.shields.io/github/downloads/TheCascadian/Public-Python-Package/total)
-
+![GitHub stars](https://img.shields.io/github/stars/TheCascadian/Public-Python-Package?style=social)
 # Public Python Package
 
 A comprehensive collection of Python utilities to boost productivity and streamline workflow.
