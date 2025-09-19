@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/OWNER/REPO/total)
+![Downloads](https://img.shields.io/github/downloads/TheCascadian/Public-Python-Package/total)
 
 # Public Python Package
 
