@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/github/downloads/OWNER/REPO/total)
+
 # Public Python Package
 
 A comprehensive collection of Python utilities to boost productivity and streamline workflow.
